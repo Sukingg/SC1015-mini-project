@@ -27,10 +27,9 @@ This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intellig
 |  Tay Shu Shuang  |  Data Preparation, Data Visualisation, Machine Learning, Presentation, Github Respository  |
 
 ## Problem Definition
-
+According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. We want to use data science and ML to predict the occurrence of stroke for early detection and treatment. We wish to find out which factors are the most important in predicting the occurrence of stroke, and perhaps how we can prevent the aggravation of such factors.
 
 ## Models Used
-
 - Chi-Square Test
 - Naive Bayes
 - Decision Tree
@@ -41,10 +40,8 @@ This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intellig
 
 ## Conclusion
 
-
-
 ## Datasets used
-
+https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ## References
 
